@@ -133,24 +133,37 @@ Healthcare-System/
 📸 Screenshots
 The following system interfaces document the layout and workflow of the environment:
 Login Screen
+![Login Page](Screenshots/Login%20Page.png.png)
+
  
 Registration Screen
+![Registration Page](Screenshots/Registration%20page.png.png)
 
  
 Patient Dashboard
+![Patient Dashboard](Screenshots/Pateint%20dashboard.png.png)
+
  
 
 
 Doctor Dashboard
+![Doctor Dashboard](Screenshots/Doctor%20dashboard.png.png)
+
  
 Nurse Dashboard
+![Nurse Dashboard](Screenshots/Nurse%20dashboard.png.png)
  
 
 
 Admin Dashboard
+![Admin Dashboard](Screenshots/Admin%20dashboard.png.png)
+
  
 System administration portal displaying real-time hospital statistics including totals across all user groupings. 
 Reports Screen
+![Report 1](Screenshots/Report1.png.png)
+![Report 2](Screenshots/Report2.png.png)
+![Report 3](Screenshots/Report3.png.png)
  
  
 
