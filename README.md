@@ -133,7 +133,7 @@ Healthcare-System/
 📸 Screenshots
 The following system interfaces document the layout and workflow of the environment:
 Login Screen
-![Login Page](Screenshots/Login%20Page.png.png)
+![LogIn Page](Screenshots/Login%20Page.png.png)
 
  
 Registration Screen
